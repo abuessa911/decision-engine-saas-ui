@@ -1,0 +1,23 @@
+{
+  "name": "decision-engine-saas-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "next-auth": "^4.24.1",
+    "mongodb": "^5.8.0"
+  },
+  "description": "This directory defines the **UI design structure** for the Decision Engine SaaS.",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
