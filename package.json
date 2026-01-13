@@ -8,15 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "mongodb": "^5.8.0",
     "next": "14.0.0",
-    "react": "18.0.0",
-    "react-dom": "18.0.0",
     "next-auth": "^4.24.1",
-    "mongodb": "^5.8.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "description": "This directory defines the **UI design structure** for the Decision Engine SaaS.",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/react": "19.2.8",
+    "typescript": "5.9.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
