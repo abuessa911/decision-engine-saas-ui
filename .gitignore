@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+
+# env files
+.env
+.env.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# misc
+PROJECT_AUDIT_REPORT.txt
+*.sh
+*.py
+
+# experimental folders
+01_Dashboard/
+02_Explainability_Modal/
+03_Landing_Page/
+04_Components/
+05_Design_Tokens/
