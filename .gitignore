@@ -8,6 +8,7 @@ out/
 # env files
 .env
 .env.local
+.env.*.local
 
 # logs
 npm-debug.log*
@@ -18,9 +19,9 @@ yarn-error.log*
 .DS_Store
 
 # misc
-PROJECT_AUDIT_REPORT.txt
 *.sh
 *.py
+PROJECT_AUDIT_REPORT.txt
 
 # experimental folders
 01_Dashboard/
